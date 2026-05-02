@@ -24,5 +24,3 @@ Engenheiro de Software em formação, entusiasta de infraestrutura e automação
 
 ---
 
-## 🔗 Conecte-se comigo
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/atilla-tayller-gama-da-rocha-918595275/))
