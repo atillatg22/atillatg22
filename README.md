@@ -5,7 +5,7 @@ Engenheiro de Software em formação, entusiasta de infraestrutura e automação
 ---
 
 ## 🎓 Formação & Acadêmico
-- **Bacharelado em Sistemas de Informação** – FAESA (Cursando)
+- **Bacharelado em Sistemas de Informação** – FAESA (Cursando 3/8)
 - **Técnico em Desenvolvimento de Sistemas** – SENAI Vitória/ES
 - **Foco de Carreira:** Backend, DevOps e Infraestrutura.
 
@@ -14,38 +14,42 @@ Engenheiro de Software em formação, entusiasta de infraestrutura e automação
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Infraestrutura, DevOps & OS
-<div style="display: inline-block">
-    <img align="center" alt="Docker" src="https://shields.io" />
-    <img align="center" alt="Linux" src="https://shields.io" />
-    <img align="center" alt="Git" src="https://shields.io" />
-    <img align="center" alt="Gitea" src="https://shields.io" />
-</div>
+<p>
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Gitea" />
+</p>
 
 ### Desenvolvimento Backend & Bancos de Dados
-<div style="display: inline-block">
-    <img align="center" alt="Python" src="https://shields.io" />
-    <img align="center" alt="Postgres" src="https://shields.io" />
-    <img align="center" alt="MySQL" src="https://shields.io" />
-    <img align="center" alt="JavaScript" src="https://shields.io" />
-</div>
+<p>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Postgres" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="JS" />
+</p>
 
 ### Frontend (Base)
-<div style="display: inline-block">
-    <img align="center" alt="HTML5" src="https://shields.io" />
-    <img align="center" alt="CSS3" src="https://shields.io" />
-</div>
+<p>
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
 
 ---
 
 ## 📊 Estatísticas
 ![Atilla GitHub stats](https://vercel.app)
+
 ![Top Langs](https://vercel.app)
 
 ---
 
 ## 🔗 Conecte-se comigo
-[![Linkedin](https://shields.io)](https://linkedin.com)
-[![Instagram](https://shields.io)](https://instagram.com)
-[![Twitter](https://shields.io)](https://x.com?)
-
-
+<p>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="Linkedin" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
