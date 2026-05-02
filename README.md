@@ -14,20 +14,13 @@ Engenheiro de Software em formação, entusiasta de infraestrutura e automação
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Infraestrutura, DevOps & OS
-![Docker](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
-![Gitea](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git)](https://skillicons.dev)
 
 ### Desenvolvimento Backend & Bancos de Dados
-![Python](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![JavaScript](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres)](https://skillicons.dev)
 
 ### Frontend (Base)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ---
 
