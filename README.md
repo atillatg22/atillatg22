@@ -14,26 +14,20 @@ Engenheiro de Software em formação, entusiasta de infraestrutura e automação
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Infraestrutura, DevOps & OS
-<p>
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Gitea" />
-</p>
+![Docker](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
+![Gitea](https://shields.io)
 
 ### Desenvolvimento Backend & Bancos de Dados
-<p>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Postgres" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="JS" />
-</p>
+![Python](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+![JavaScript](https://shields.io)
 
 ### Frontend (Base)
-<p>
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 ---
 
@@ -45,11 +39,5 @@ Engenheiro de Software em formação, entusiasta de infraestrutura e automação
 ---
 
 ## 🔗 Conecte-se comigo
-<p>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="Linkedin" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+[![Linkedin](https://shields.io)](https://linkedin.com)
+[![Instagram](https://shields.io)](https://instagram.com)
